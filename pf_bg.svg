@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" version="1.1" id="svg2" xml:space="preserve" width="604" height="480.49734" viewBox="0 0 604 480.49734" sodipodi:docname="pfbg.ai">
+  <defs id="defs6">
+    <clipPath id="clipPath16">
+      <path d="M 0,360.373 H 453 V 0 H 0 Z" id="path14"></path>
+    </clipPath>
+  </defs>
+  <g id="g8" inkscape:groupmode="layer" inkscape:label="pfbg" transform="matrix(1.3333333,0,0,-1.3333333,0,480.49733)">
+    <g id="g10">
+      <g id="g12" clip-path="url(#clipPath16)">
+        <g id="g18" transform="translate(335.2598,262.0938)">
+          <path d="m 0,0 c -17.618,10.6 -44.487,15.852 -63.455,15.852 -57.688,0 -100.825,-38.353 -100.825,-96.9 0,-55.039 34.328,-98.667 92.065,-98.667 31.262,0 44.046,7.926 68.24,15.852 l 23.36,-56.805 c -21.593,-11.901 -56.781,-22.428 -100.9,-22.428 -102.592,0 -164.697,65.123 -164.697,163.814 0,95.134 63.872,158.564 174.857,158.564 41.419,0 75.331,-9.251 95.598,-22.035 z" style="fill:#f0f0f0;fill-opacity:1;fill-rule:evenodd;stroke:none" id="path20"></path>
+        </g>
+        <g id="g22" transform="translate(313.3232,182.9102)">
+          <path d="m 0,0 c 0,-24.979 -20.17,-45.149 -45.149,-45.149 -24.931,0 -45.15,20.17 -45.15,45.149 0,24.955 20.219,45.174 45.15,45.174 C -20.17,45.174 0,24.955 0,0" style="fill:#f8f8f8;fill-opacity:1;fill-rule:evenodd;stroke:none" id="path24"></path>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
